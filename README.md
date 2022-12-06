@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ulomae
-- 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning Python, Javascript, CSS and HTML
-- 💞️ I’m looking to collaborate on websites and games!
+- 👀 I’m interested in Data Analysis and Engineering
+- 🌱 I’m currently learning Python, SQL and Data visualization
+- 💞️ I’m looking to collaborate on Data analysis and visualiazation!
 - 📫 How to reach me- ulomaemeh@gmail.com
 
 <!---

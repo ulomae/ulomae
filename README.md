@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ulomae
-- 👀 I’m interested in Data Analysis and Engineering
-- 🌱 I’m currently learning Python, SQL and Data visualization
-- 💞️ I’m looking to collaborate on Data analysis and visualiazation!
+- 👀 I’m interested in Data Engineering and Backend Web Development
+- 🌱 I’m currently learning Python, SQL and Javascript
 - 📫 How to reach me- ulomaemeh@gmail.com
 
 <!---
